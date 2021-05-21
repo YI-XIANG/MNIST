@@ -1,2 +1,2 @@
 # MNIST
-  AI L
+  AI Learning
